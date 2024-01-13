@@ -1,0 +1,17 @@
+{
+    "name": "learning/mvc",
+    "description": "php mvc",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "skip"
+        }
+    ],
+    "require": {
+        "larapack/dd": "^1.1"
+    }
+}
